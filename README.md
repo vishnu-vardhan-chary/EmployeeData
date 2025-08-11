@@ -48,4 +48,5 @@ This application allows users to manage employees — including creating, readin
 
 ## 📂 Project Structure
 
-### Frontend
+### Employee Backend
+### Employee Frontend
